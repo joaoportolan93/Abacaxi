@@ -6,5 +6,10 @@
     "pt": {
         "greeting": "Olá, Mundo!",
         "farewell": "Adeus, Mundo!"
-    }
+    },
+    {
+     "gd": {
+        "greeting": "Hello Saoghal!",
+        "farewell": "Beannachd leat, a Shaoghal!"
+     }
 }

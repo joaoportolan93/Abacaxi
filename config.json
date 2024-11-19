@@ -6,5 +6,26 @@
     "pt": {
         "greeting": "Olá, Mundo!",
         "farewell": "Adeus, Mundo!"
-    }
+    },
+    "oss":{
+    "greeting": "Салам дуне!",
+    "farewell": "«Хæрзбон!»"
+    },
+    "jv": {
+        "greeting": "Halo, Donya!",
+        "farewell": "Pamit, Donya!"
+    },
+     "kri": {
+        "greeting": "Alo, Wɔl!",
+        "farewell": "Gudbay, Wɔl!"
+    },
+    "war": {
+        "greeting": "Kumusta, Kalibutan!",
+        "farewell": "Paalam, Kalibutan!"
+    },
+    "tpi": {
+        "greeting": "Halo, Wol!",
+        "farewell": "Gutbai, Wol!"
+    },
+    
 }
